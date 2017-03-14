@@ -1,0 +1,24 @@
+{
+  "name": "oauth-login-http",
+  "description": "oath login",
+  "keywords": "oath login",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/oauth-login-http.git"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "files": [
+    "index.js",
+    "oath1.js",
+    "oath2.js"
+  ],
+  "dependencies": {
+    "node-oauth": "0.1.3"
+  },
+  "license": "Apache-2.0"
+}
