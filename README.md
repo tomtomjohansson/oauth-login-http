@@ -1,4 +1,4 @@
-# oath-login-http
+# oauth-login-http
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
