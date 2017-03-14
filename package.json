@@ -1,7 +1,7 @@
 {
   "name": "oauth-login-http",
-  "description": "oath login",
-  "keywords": "oath login",
+  "description": "oauth login",
+  "keywords": "oauth login",
   "repository": {
     "type": "git",
     "url": "git://github.com/jameskyburz/oauth-login-http.git"
@@ -14,8 +14,8 @@
   "version": "1.0.0",
   "files": [
     "index.js",
-    "oath1.js",
-    "oath2.js"
+    "oauth1.js",
+    "oauth2.js"
   ],
   "dependencies": {
     "node-oauth": "0.1.3"
