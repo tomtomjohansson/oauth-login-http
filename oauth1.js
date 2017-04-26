@@ -1,4 +1,4 @@
-const { OAuth } = require('node-oauth')
+const { OAuth } = require('oauth')
 const url = require('url')
 
 module.exports = oauth1
