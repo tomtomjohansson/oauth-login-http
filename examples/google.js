@@ -1,4 +1,4 @@
-const oauth2 = require('./').oauth2({
+const oauth2 = require('../').oauth2({
   resourceUri: 'https://www.googleapis.com/oauth2/v3/userinfo?grant_type=profile',
   callbackUri: 'http://localhost:3000/callback',
   scope: 'profile email'
@@ -41,4 +41,4 @@ http.createServer((q, r) => {
 
   r.end()
 })
-.listen(3000)
+.listen(3500)
